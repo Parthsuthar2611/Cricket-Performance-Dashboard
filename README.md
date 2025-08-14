@@ -7,18 +7,22 @@ An engaging, data-driven dashboard built to analyze and visualize cricket match 
 
 ⚙️ Tech Stack
 
-The dashboard was built using the following tools and technologies:
+The dashboard was built using the following:
 
 📊 Power BI Desktop – Main platform for building the interactive dashboard.
 📂 Power Query – Used for transforming raw cricket match data into a clean, usable format.
 🧠 DAX (Data Analysis Expressions) – Applied to create calculated metrics such as batting averages, strike rates, and economy rates.
+🌐 Web Scraping – Cricket match data was collected from ESPN Cricinfo.
 📝 Data Modeling – Relationships created among tables: Matches, Players, Teams, Venues, and Deliveries.
 📁 .pbix File Format – Power BI project file format for dashboard design and sharing.
 
 🗂️ Data Source
 
-Source: Dataset from the Codebasics Cricket Project Tutorial
-The dataset includes detailed information on:
+Source:
+
+Web Scraping from ESPN Cricinfo for live and historical cricket match data.
+
+The dataset includes:
 
 Match Details: Date, venue, teams, toss winner, match result
 
