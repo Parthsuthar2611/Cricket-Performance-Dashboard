@@ -78,7 +78,7 @@ Venue Performance Map (Geo-Visualization) – Highlights where teams perform bes
 📊 Data-Driven Decisions – Supports coaches and analysts in strategic planning.
 
 Power hitter:
- ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Power%20hitters.png)
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/c5d6188e7d5aeda089150e897f1bb34b4508241d/Power%20hitters.png)
 
 Anchors :
  ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Anchors.png)
