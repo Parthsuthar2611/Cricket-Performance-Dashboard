@@ -76,3 +76,21 @@ Venue Performance Map (Geo-Visualization) – Highlights where teams perform bes
 🎯 Match Strategy Optimization – Reveals patterns in toss outcomes, venue impact, and batting/bowling orders.
 📈 Fan Engagement – Provides visually appealing stats to engage cricket enthusiasts.
 📊 Data-Driven Decisions – Supports coaches and analysts in strategic planning.
+
+Power hitter:
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Power%20hitters.png)
+
+Anchors :
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Anchors.png)
+
+Finishers :
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Finisher.png)
+
+All rounders:
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/All%20rounders.png)
+
+Specialist fast bowlers :
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Specialist%20fast%20bowlers.png)
+
+Final 11:
+ ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/971278a26970afc1391fd5de26727a1ee37755e3/Final%2011.png)
