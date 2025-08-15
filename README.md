@@ -1,4 +1,4 @@
-🏏 Cricket Performance Insight Dashboard
+#🏏 Cricket Performance Insight Dashboard
 
 🚀 Interactive Power BI Cricket Analytics Dashboard
 An engaging, data-driven dashboard built to analyze and visualize cricket match data—empowering fans, analysts, and strategists with deep insights into player performances, match trends, and key statistics.
