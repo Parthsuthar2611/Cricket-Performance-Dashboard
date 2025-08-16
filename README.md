@@ -1,19 +1,24 @@
-#🏏 Cricket Performance Insight Dashboard
+🏏 Cricket Performance Insight Dashboard
 
 🚀 Interactive Power BI Cricket Analytics Dashboard
 An engaging, data-driven dashboard built to analyze and visualize cricket match data—empowering fans, analysts, and strategists with deep insights into player performances, match trends, and key statistics.
 
-🎯 The CricketPulse Dashboard is an interactive Power BI report designed to provide a clear overview of batting, bowling, and match performance across teams, players, and venues. It helps cricket enthusiasts, data analysts, and coaches uncover trends, compare performances, and make data-backed assessments.
+🎯 The CricketPulse Dashboard is an interactive Power BI report designed to provide a clear overview of batting and bowling performance across players and teams. It helps cricket enthusiasts, data analysts, and coaches uncover trends, compare performances, and make data-backed assessments.
 
 ⚙️ Tech Stack
 
 The dashboard was built using the following:
 
 📊 Power BI Desktop – Main platform for building the interactive dashboard.
+
 📂 Power Query – Used for transforming raw cricket match data into a clean, usable format.
+
 🧠 DAX (Data Analysis Expressions) – Applied to create calculated metrics such as batting averages, strike rates, and economy rates.
+
 🌐 Web Scraping – Cricket match data was collected from ESPN Cricinfo.
-📝 Data Modeling – Relationships created among tables: Matches, Players, Teams, Venues, and Deliveries.
+
+📝 Data Modeling – Relationships created among tables: Matches, Players, Teams, and Deliveries.
+
 📁 .pbix File Format – Power BI project file format for dashboard design and sharing.
 
 🗂️ Data Source
@@ -24,7 +29,7 @@ Web Scraping from ESPN Cricinfo for live and historical cricket match data.
 
 The dataset includes:
 
-Match Details: Date, venue, teams, toss winner, match result
+Match Details: Date, teams, match result
 
 Player Statistics: Runs scored, balls faced, wickets taken, overs bowled, extras conceded
 
@@ -41,8 +46,6 @@ Key Questions:
 ➵ Which batsman scored the most runs in the tournament?
 ➵ Who has the best batting strike rate?
 ➵ Which bowler has the best economy rate?
-➵ Which teams dominate at certain venues?
-➵ How do toss decisions impact match results?
 
 • Goal of the Dashboard
 
@@ -50,32 +53,25 @@ To create a powerful and visually intuitive cricket analytics dashboard that:
 
 Tracks batting and bowling performances in detail
 
-Identifies top and underperforming players and teams
+Identifies top and underperforming players
 
 Helps analysts and fans make data-driven insights into match strategies
 
 • Walkthrough of Key Visuals
 
-KPI Cards (Top Panel) – Total Runs, Total Wickets, Highest Individual Score, Best Bowling Figures
+➵KPI Cards (Top Panel) – Total Runs, Total Wickets, Highest Individual Score, Best Bowling Figures
 
-Runs by Player (Bar Chart) – Compare batting performances across players
+➵Runs by Player (Bar Chart) – Compare batting performances across players
 
-Wickets by Bowler (Bar Chart) – Identify top wicket-takers
+➵Wickets by Bowler (Bar Chart) – Identify top wicket-takers
 
-Strike Rate & Economy Rate Trends (Line Charts) – Assess player efficiency over time
+➵Strike Rate & Economy Rate Trends (Line Charts) – Assess player efficiency over time
 
-Team Win Analysis (Pie/Bar Charts) – Breakdown of wins by team and venue
+➵Player Role Categorization (Custom Charts) – Power Hitters, Anchors, Finishers, All-rounders, Specialist Bowlers
 
-Toss vs Result (Stacked Column Chart) – Explore correlation between toss decisions and match outcomes
+➵Final XI Selection – Combination of top-performing players across roles
 
-Venue Performance Map (Geo-Visualization) – Highlights where teams perform best
-
-• Business Impact & Insights
-
-🏆 Player Performance Tracking – Helps identify consistent performers and rising stars.
-🎯 Match Strategy Optimization – Reveals patterns in toss outcomes, venue impact, and batting/bowling orders.
-📈 Fan Engagement – Provides visually appealing stats to engage cricket enthusiasts.
-📊 Data-Driven Decisions – Supports coaches and analysts in strategic planning.
+📸 Dashboard Snapshots
 
 Power hitter:
  ![Image Alt](https://github.com/Parthsuthar2611/Cricket-Performance-Dashboard/blob/c5d6188e7d5aeda089150e897f1bb34b4508241d/Power%20hitters.png)
